@@ -1,5 +1,5 @@
-<p><img src="https://eslint.org/icon-512.png" alt="ESlint" height="undefined"/> ESLint </p>
-<p><img src="https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg" alt="Prettier" height="undefined"/></p>
+<h2><img src="https://eslint.org/icon-512.png" alt="ESlint" height=100/> ESLint </h2>
+<h2><img src="https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg" alt="Prettier" height=100/></h2>
 
 # Next.js with Bun runtime
 

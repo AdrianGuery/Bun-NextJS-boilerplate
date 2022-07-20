@@ -1,5 +1,9 @@
-<h2><img src="https://eslint.org/icon-512.png" alt="ESlint" height=100/> ESLint </h2>
-<h2><img src="https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg" alt="Prettier" height=100/></h2>
+<p align="center">
+<img src="https://bun.sh/logo.svg" alt="Bun.sh" height=100/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" alt="Next.js" height=100/>
+<img src="https://eslint.org/icon-512.png" alt="ESlint" height=100/>
+<img src="https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg" alt="Prettier" height=100/>
+</p>
 
 # Next.js with Bun runtime
 
